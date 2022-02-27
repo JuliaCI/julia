@@ -1,0 +1,3 @@
+# This file controls which gitref of https://github.com/JuliaCI/julia-buildkite we fetch for buildkite CI
+# It should either be a branch or tag name, or a strict gitsha.
+main
